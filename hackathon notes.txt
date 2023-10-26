@@ -1,0 +1,14 @@
+- Log in and Sign up ( email and password) Hex
+
+-Databse to store event information(event name,
+ date,location,description and available spots)
+
+-Event registration (name and contact details)
+-Limit event spots (100)
+
+-After  login display user details
+-Allow editing
+
+-Admin panel (pending registration)
+
+-Feedback messages
